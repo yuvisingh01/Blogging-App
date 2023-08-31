@@ -143,12 +143,12 @@ function Home(props) {
               <div className="title">
                 {isEditing && currentPostId === post.id ? (
                   <>
-                    <input
+                    <input placeholder='Change Title'
                       type="text"
                       value={updatedPost.title}
                       onChange={(e) => setUpdatedPost({ ...updatedPost, title: e.target.value })}
                     />
-                    <textarea
+                    <textarea placeholder='Change Content'
                       value={updatedPost.postText}
                       onChange={(e) => setUpdatedPost({ ...updatedPost, postText: e.target.value })}
                     />
