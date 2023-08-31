@@ -15,7 +15,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://github.com/yuvisingh01/Blogging-App",
+  "homepage": "https://yuvisingh01.github.io/Blogging-App",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
