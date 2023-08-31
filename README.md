@@ -34,14 +34,12 @@ Welcome to the Blogging React Web App repository! This project is a dynamic blog
 
 
 2. Install dependencies:
-
-  npm install
+    npm install
 
 
 3. Set up Firebase:
-
-Create a Firebase project at https://console.firebase.google.com/.
-Add your Firebase configuration details to src/firebase-config.js.
+    Create a Firebase project at https://console.firebase.google.com/.
+    Add your Firebase configuration details to src/firebase-config.js.
 
 
 4. Start the development server:
