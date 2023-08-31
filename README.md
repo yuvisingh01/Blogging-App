@@ -1,6 +1,7 @@
 # Blogging React Web App
 
 ![Blogging React Web App]()![App landing page](https://github.com/yuvisingh01/Blogging-App/assets/88438578/1c8d3ba8-4802-483a-85bf-135198b4b0dc)
+
 ![Home Page](https://github.com/yuvisingh01/Blogging-App/assets/88438578/89f3f910-9cb8-4f34-9ec7-13412d74525b)
 
 
@@ -24,30 +25,8 @@ Welcome to the Blogging React Web App repository! This project is a dynamic blog
   - Storage: Upload and store posts using Firebase Storage.
 - React Router: Declarative routing for React applications.
 
-## Getting Started
 
-1. Clone this repository:
-
-   ```sh
-   git clone https://github.com/your-username/blogging-react-app.git
-   cd blogging-react-app
-
-
-2. Install dependencies:
-    npm install
-
-
-3. Set up Firebase:
-    Create a Firebase project at https://console.firebase.google.com/.
-    Add your Firebase configuration details to src/firebase-config.js.
-
-
-4. Start the development server:
-   
-  npm start
-  Open your browser and go to http://localhost:3000 to see the app in action!
-
-Usage
+## Usage
 Sign up or log in to start creating and managing your blog posts.
 Create new blog posts with titles, content, and optional images.
 Edit and update your existing blog posts.
@@ -59,7 +38,7 @@ Add more interactive features to engage users.
 Contributing
 Contributions are welcome! If you encounter any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
-License
+## License
 This project is licensed under the MIT License.
 
 
